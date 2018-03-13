@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"CoffeeOrder": {
+			"name": "CoffeeOrder",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "CoffeeOrder",
+			"order": 0
+		},
+		"Email": {
+			"name": "Email",
+			"type": "object",
+			"typeLabel": "object",
+			"required": true,
+			"id": "Email",
+			"order": 1
+		},
+		"FlavorShot": {
+			"name": "FlavorShot",
+			"type": "object",
+			"typeLabel": "object",
+			"required": true,
+			"id": "FlavorShot",
+			"order": 2
+		}
+	}
+}
